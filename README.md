@@ -1,8 +1,7 @@
 # salamat4
 
 A new Flutter project.
-https://letsenhance.io/static/334225cab5be263aad8e3894809594ce/75c5a/MainAfter.jpg
-
+![Alt text](http://full/path/to/img.jpg "Optional title")
 ## Getting Started
 
 This project is a starting point for a Flutter application.
